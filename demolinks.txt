@@ -1,0 +1,7 @@
+Url  : https://github.com/poc-demo-project/sample-project-devops.git
+
+Token :  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
+
+Url  : https://github.com/poc-demo-project/sample-project-backend.git
+
+
