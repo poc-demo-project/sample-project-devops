@@ -1,0 +1,12 @@
+https://github.com/poc-demo-project/sample-project-devops.git
+
+
+https://github.com/poc-demo-project/sample-project-backend.git
+
+
+Token:  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
+
+TOken new: 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
+
+
+poc-demo-project
